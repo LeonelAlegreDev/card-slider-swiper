@@ -29,6 +29,7 @@ El proyecto consiste en un deslizador de tarjetas que permite a los usuarios nav
         <div class="card-item swiper-slide">Card 1</div>
         <div class="card-item swiper-slide">Card 2</div>
         <div class="card-item swiper-slide">Card 3</div>
+        <div class="card-item swiper-slide">Card 4</div>
         <!-- MORE CARDS -->
       </div>
       <!-- PAGINATION -->
